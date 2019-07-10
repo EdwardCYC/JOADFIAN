@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Joadfian\Joadfian\bin\Debug\Joadfian.exe.config
+C:\Users\User\source\repos\Joadfian\Joadfian\bin\Debug\Joadfian.exe
+C:\Users\User\source\repos\Joadfian\Joadfian\bin\Debug\Joadfian.pdb
+C:\Users\User\source\repos\Joadfian\Joadfian\obj\Debug\Joadfian.Properties.Resources.resources
+C:\Users\User\source\repos\Joadfian\Joadfian\obj\Debug\Joadfian.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\Joadfian\Joadfian\obj\Debug\Joadfian.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Joadfian\Joadfian\obj\Debug\Joadfian.exe
+C:\Users\User\source\repos\Joadfian\Joadfian\obj\Debug\Joadfian.pdb
+C:\Users\User\source\repos\Joadfian\Joadfian\bin\Debug\JobDatabase.mdf
+C:\Users\User\source\repos\Joadfian\Joadfian\bin\Debug\JobDatabase_log.ldf
+C:\Users\User\source\repos\Joadfian\Joadfian\obj\Debug\Joadfian.MainForm.resources
+C:\Users\User\source\repos\Joadfian\Joadfian\obj\Debug\Joadfian.AdInfoForm.resources
+C:\Users\User\source\repos\Joadfian\Joadfian\obj\Debug\Joadfian.AboutForm.resources
+C:\Users\User\source\repos\Joadfian\Joadfian\obj\Debug\Joadfian.InstructionsForm.resources
+C:\Users\User\source\repos\Joadfian\Joadfian\obj\Debug\Joadfian.WaitDialogue.resources
